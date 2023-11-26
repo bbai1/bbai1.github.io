@@ -3548,7 +3548,7 @@ h1.page-title + .tag-cloud-list {
 }
 #post > #post-info .post-title {
   padding-bottom: 4px;
-  border-bottom: 1px solid var(--light-grey);
+  border-bottom: 1px solid var(--black-grey);
   color: var(--text-highlight-color);
 }
 #post > #post-info .post-title .post-edit-link {
@@ -3560,7 +3560,7 @@ h1.page-title + .tag-cloud-list {
 }
 #post-info .post-title {
   margin-bottom: 8px;
-  color: var(--white);
+  color: var(--black);
   font-weight: normal;
   font-size: 2.5em;
   line-height: 1.5;
